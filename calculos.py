@@ -1,0 +1,5 @@
+n1 = input('escolha um numero')
+n2 = input('escolha outro numero a ser somado ao anterior')
+print('o resultado da soma deu', int(n1) + int(n2))
+n3 = input('escolha um numero pra subitrair o anterior')
+print('o resultado final foi', int(n1) + int(n2) - int(n3))
